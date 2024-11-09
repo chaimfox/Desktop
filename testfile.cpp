@@ -16,5 +16,6 @@ int main() {
     int result = sumNumbers(number);
     std::cout << "The sum of numbers from 1 to " << number << " is: " << result << std::endl;
 
+
     return 0;
 }
